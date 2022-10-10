@@ -1,0 +1,21 @@
+.loginContainer {
+    width: 100%;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+}
+
+.login {
+    width: 400px; 
+    margin: auto;
+}
+
+.usersContainer {
+    display: flex; 
+    justify-content: space-between;
+}
+
+.users { 
+    margin: 15px; 
+    cursor: pointer 
+}

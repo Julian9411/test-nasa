@@ -1,0 +1,10 @@
+.photos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly
+}
+
+.MuiCard-root {
+  width: 300px;
+  margin: 30px
+}
